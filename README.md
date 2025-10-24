@@ -181,14 +181,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Privacy Community**: For inspiration and feedback
 - **Open Source Contributors**: For their valuable contributions
 
-## 📞 Contact
 
-**Project Maintainer**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-
----
 
 <div align="center">
 
