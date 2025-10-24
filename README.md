@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Privacy](https://img.shields.io/badge/Privacy-First-red.svg)](https://github.com)
 
-> **A sophisticated privacy-focused web browser built with PyQt5 and advanced anti-tracking technologies**
+ **A sophisticated privacy-focused web browser built with PyQt5 and advanced anti-tracking technologies**
 
 ## 🚀 Overview
 
