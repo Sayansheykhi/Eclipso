@@ -25,6 +25,9 @@ Eclipso is a cutting-edge privacy browser that combines modern web technologies 
 - **Gesture Navigation**: Swipe gestures for back/forward navigation
 - **Keyboard Shortcuts**: Zoom controls (Ctrl+Plus/Minus/0) and standard browser shortcuts
 - **Real-time Status Updates**: Live loading status and connection monitoring
+<img width="1512" height="941" alt="ecl" src="https://github.com/user-attachments/assets/39ab455e-52d9-4cca-a96a-b847666dfa5c" />
+
+  
 
 ### 🛠 **Technical Excellence**
 - **Modular Architecture**: Clean separation of concerns with privacy, UI, and utility modules
@@ -50,6 +53,7 @@ Eclipso/
 └── 📦 Dependencies
     └── requirements.txt        # Project dependencies
 ```
+
 
 ## 🚀 Quick Start
 
